@@ -1,3 +1,4 @@
+const body = document.body;
 console.log (myFuncAdd(1,2))
 
 console.log ("Hello World")
